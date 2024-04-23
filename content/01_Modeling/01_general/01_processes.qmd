@@ -22,7 +22,7 @@ In a gas stove, a combustible gas is used to generate heat. The geometry and flo
 
 **Unwanted Fires**
 
-![Building fire. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fire_inside_an_abandoned_convent_in_Massueville,_Quebec,_Canada.jpg).](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fire_inside_an_abandoned_convent_in_Massueville%2C_Quebec%2C_Canada.jpg/640px-Fire_inside_an_abandoned_convent_in_Massueville%2C_Quebec%2C_Canada.jpg){#ffig-unwanted-fire width="40%"}
+![Building fire. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fire_inside_an_abandoned_convent_in_Massueville,_Quebec,_Canada.jpg).](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fire_inside_an_abandoned_convent_in_Massueville,_Quebec,_Canada.jpg/640px-Fire_inside_an_abandoned_convent_in_Massueville,_Quebec,_Canada.jpg){#ffig-unwanted-fire width="40%"}
 
 Unwanted fires, are **not controlled and not wanted** processes. These are mostly incidents inside of enclosures and pose danger to wildlife, humans, and property.
 
