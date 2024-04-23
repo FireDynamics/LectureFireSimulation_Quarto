@@ -1,0 +1,54 @@
+project:
+  type: book
+  
+
+book:
+  title: "Lecture fire simulation"
+  author: "Lukas Arnold"
+  date: today
+  downloads: [pdf]
+  repo-url: ttps://github.com
+  repo-actions: [issue]
+  
+
+  sidebar:
+    title: " "
+    logo: "content/cce_logo_small.light.png"  
+
+
+  chapters:
+    - index.qmd
+    - part: Introduction
+      chapters:
+        - content/00_overview/01_team.qmd
+        - content/00_overview/02_references.qmd
+    - part: Modeling
+      chapters:
+        - content/01_Modeling/01_general/00_overview.qmd
+  
+  
+  page-footer: "These lecture notes and tools are licensed under the
+[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) 
+<img src='https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg' />"      
+
+execute:
+  freeze: auto
+
+bibliography: content/00_overview/references.bib
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    include-after-body:
+      text: |
+        <script type="application/javascript" src="light-dark.js"></script>
+
+  pdf:
+    documentclass: scrreprt
+
+
+
+resources: 
+  - "./content/cce_logo_small.dark.png"
