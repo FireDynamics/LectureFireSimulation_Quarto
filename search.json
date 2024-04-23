@@ -1,0 +1,148 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lecture fire simulation",
+    "section": "",
+    "text": "Overview",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#general-information",
+    "href": "index.html#general-information",
+    "title": "Lecture fire simulation",
+    "section": "General Information",
+    "text": "General Information\nThe lecture Fire Simulations at the University of Wuppertal is organised by the chair of Computational Civil Engineering (CCE). The 2019 founded chair is mainly concerned with the research and development of new computer-based models. The focus of the application is the numerical simulation of fire and smoke propagation in buildings.\n\nThis is the first year that we offer this script. The motivation to create this script is on the one hand to give the participants of the lecture a possibility to read the contents. And on the other hand, to make this content freely available to external or former participants.\nHowever, this script is very short and will remain so. Much of the content is already available in greater depth, so that reference is made to the relevant passages - instead of simply copying them.\nAs the script is under development, we welcome constructive suggestions and your feedback. This way you can support our whole fire science community.\nFor the University of Wuppertal students: All organisational information on the procedure can be found on the CCE website on the fire simulations lecture.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#contents-of-the-lecture-notes",
+    "href": "index.html#contents-of-the-lecture-notes",
+    "title": "Lecture fire simulation",
+    "section": "Contents of the Lecture Notes",
+    "text": "Contents of the Lecture Notes\n\nIt is planned, that this script will not only contain the contents of the lecture Fire Simulations but also other contents linked to this lecture, such as FDS Data Analysis and Using High Performance Computers for Fire Simulations. In the course of the lecture, we will announce the contents relevant for you accordingly.\nThe script also contains exercises for all topics, with and without solution paths, but always with a result or the possibility of validating your solution.\nDo not print out the script or save it elsewhere. This way you have the latest version, which is continuously improved and supplemented with content.\nThe script will always remain freely accessible.\nThe lecture notes and exercises are designed for FDS version 6.7.5, and thus may not be valid / reproducible for other versions.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#contributors",
+    "href": "index.html#contributors",
+    "title": "Lecture fire simulation",
+    "section": "Contributors",
+    "text": "Contributors\nContributors to the development of the script and the exercises are (in alphabetical order):\n\nLukas Arnold\nKristian Börger\nTristan Hehnen\nLilli Klein\nKaren de Lannoye\nKeyvan Najarian\nTássia Quaresma\nJan Vogelsang\nMy Linh Würzburger",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#theses",
+    "href": "index.html#theses",
+    "title": "Lecture fire simulation",
+    "section": "Theses",
+    "text": "Theses\nWe offer theses (BA, MA, PhD) on many different topics.\n\nan overview of topics and previously supervised theses can be found on the thesis website\nThe overview of our publications can also help you find\nIf you are interested, please contact Lukas Arnold @ University of Wuppertal or @ Forschungszentrum Jülich",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#acknowledgements",
+    "href": "index.html#acknowledgements",
+    "title": "Lecture fire simulation",
+    "section": "Acknowledgements",
+    "text": "Acknowledgements\nThe software tools used in the lecture and the creation of the materials are mostly freely available, open source and developed by volunteers. In particular, we would like to thank the following teams for their work\n\nTeam of FDS\nTeam of Jupyter\nTeam of JupyterLab\nTeam of Jupter Book",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Lecture fire simulation",
+    "section": "Contact",
+    "text": "Contact\nHow to reach us:\n\nAs a participant of the lecture: best via the associated moodle course\nExternal interested parties best used our email list.\nContact details for individuals can be found on the staff website",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#license",
+    "href": "index.html#license",
+    "title": "Lecture fire simulation",
+    "section": "License",
+    "text": "License\nThese lecture notes and tools are licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.",
+    "crumbs": [
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "content/00_overview/01_team.html",
+    "href": "content/00_overview/01_team.html",
+    "title": "Team Fire Dynamics",
+    "section": "",
+    "text": "The Team Fire Dynamics is a joint team of members of the chair of Computational Civil Engineering (CCE) at the University of Wuppertal (BUW) and the Fire Dynamics division, which is part of the Institute for Advanced Simulation (IAS-7) at the Forschungszentrum Jülich (FZJ).\nThe CCE chair is mainly concerned with the research and development of new computer-based models. The focus of the application here is fire and smoke propagation in buildings.\nIn teaching, we focus on computer science and numerics. The main lectures we offer are Computer Science and Fire Simulations. In addition to this, we regularly offer workshops on data analysis and Raspberry Pi.\nThe simulation models we develop and use are mostly based on computational fluid dynamics (CFD). In addition, we use genetic optimisation algorithms and image processing methods. What they all have in common is the use of parallel computers, such as the supercomputer JURECA at the Forschungszentrum Jülich.\n\n\n\n\n\n\nFigure 1: JURECA supercomputer. Source: Forschungszentrum Jülich\n\n\n\nOur research activities include the use and further development of FDS (Fire Dynamics Simulator), which can be used to calculate the spread of smoke and fire in buildings. On the other hand, the development of new simulation tools. These include, for example, the simulation software ARTSS (Accelerator-based Real-Time Smoke Simulator) or PROPTI. The research is carried out in close cooperation with the Fire Dynamics department at the Jülich Research Centre.\n\n\n\n\n  \n\n\n\n\nSimulation of fires in an underground station, part of the ORPHEUS project, using the software FDS.\n\n\n\n\n\n\n  \n\n\n\n\nSimulation of a liquid fire with the software OpenFoam\n\n\n\n\n\n\n  \n\n\n\n\nSelf-consistent simulation of fire spread along a cable route, part of Hehnen, Arnold, and Mendola (2020). Calculated with FDS.\n\n\n\n\n\n\n\nHehnen, Tristan, Lukas Arnold, and Saverio La Mendola. 2020. “Numerical Fire Spread Simulation Based on Material Pyrolysis—An Application to the CHRISTIFIRE Phase 1 Horizontal Cable Tray Tests.” Fire 3 (3): 33. https://doi.org/10.3390/fire3030033.",
+    "crumbs": [
+      "Introduction",
+      "Team Fire Dynamics"
+    ]
+  },
+  {
+    "objectID": "content/00_overview/02_references.html",
+    "href": "content/00_overview/02_references.html",
+    "title": "References",
+    "section": "",
+    "text": "Hehnen, Tristan, Lukas Arnold, and Saverio La Mendola. 2020.\n“Numerical Fire Spread Simulation Based on\nMaterial Pyrolysis—An Application to the CHRISTIFIRE Phase 1 Horizontal\nCable Tray Tests.” Fire 3 (3): 33. https://doi.org/10.3390/fire3030033.",
+    "crumbs": [
+      "Introduction",
+      "References"
+    ]
+  },
+  {
+    "objectID": "content/01_Modeling/01_general/00_overview.html",
+    "href": "content/01_Modeling/01_general/00_overview.html",
+    "title": "1  Modelling Fires",
+    "section": "",
+    "text": "1.1 Physical and Chemical Processes",
+    "crumbs": [
+      "Modeling",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modelling Fires</span>"
+    ]
+  },
+  {
+    "objectID": "content/01_Modeling/01_general/00_overview.html#physical-and-chemical-processes",
+    "href": "content/01_Modeling/01_general/00_overview.html#physical-and-chemical-processes",
+    "title": "1  Modelling Fires",
+    "section": "",
+    "text": "1.1.1 What is a Fire?\nIn general: A fire is an exothermic chemical reaction.\nTechnical Combustion – Wanted Fires\n\n\n\n\n\n\nFigure 1.1: In a gas stove, a combustible gas is used to generate heat. The geometry and flow properties of the stove allow a controllable flame. Source: Wikimedia Commons.\n\n\n\n\nWanted fires, i.e. technical combustion processes, are controlled processes used for e.g. heating or propulsion. Although the term wanted fire is somehow misleading, as the fires are typically not wanted and associated with accidents, a bonfire is one of the fundamental wanted applications of fires.\n\n\n\n\n\n\nFigure 1.2: Bonfires are wanted fires, e.g. for preparing a meal.\n\n\n\nUnwanted Fires\n\n\n\nBuilding fire. Source: Wikimedia Commons.\n\n\nUnwanted fires, are not controlled and not wanted processes. These are mostly incidents inside of enclosures and pose danger to wildlife, humans, and property.\nFire Examples\n\nBonfire\n\nLakeside Bonfire\nSlowmotion Bonfire\n\nWildland fires\n\nWalking With Fire: A Wildfire Documentary\nIndonesia Peat Fires\n\nCompartment fires\n\nCompartment Fire Flashover\nStorage Fire\n\n\n\n\n1.1.2 Processes Overview\n\n\n\n\n\n\nFigure 1.3: Visualisation of the main processes involved in fires.\n\n\n\nFires involve a complex interaction of a multitude of physical and chemical processes. While most of them take place in the gas phase, e.g. combustion, fires commonly include also processes in the solid or liquid phase, e.g. pyrolysis which generates the fuel for the combustion. The following processes cover the main phenomena.\n\nFluid dynamics\n\nfundamental mass and momentum transport process in the gas phase\nfire related flows are mostly turbulent\n\nHeat transfer\n\nwarm gas, e.g. combustion products, are transported upwards by heat convection\nhot matter emits net thermal radiation\nheat conduction inside the solid\n\nCombustion\n\nfast oxidation of fuel in the flame\nrelease of chemical energy, e.g. locally heating gas or thermal radiation\n\nPyrolysis\n\ndegradation of the solid structure\nemission of volatile gases, e.g. fuel for the combustion\n\n\n\n\n1.1.3 Fluid Dynamics\nFires induce heat in the gas phase and buoyancy of the heated gas drives a plume. Compartment flows are complex and involve many openings to ambient regions as well as obstructions, see Figure 1.4. Mechanical ventilation, systems for heating, ventilation and air conditioning (HVAC) as well as wind might be included into the evaluation of the dynamics.\n\n\n\n\n\n\nFigure 1.4: Illustration of a potential flow inside a building, driven by the heat released by the fire. There is an inflow and an outflow, which connect the confined flow to the ambient domain.\n\n\n\nMost fire flows, especially in the flame and plume region, are turbulent. The turbulent mixture process during combustion is crucial and the entrainment of fresh cold air into a plume significantly determines its dynamics. Experimental analysis as well as numerical models must consider the macroscopic effects of turbulence.\n\n\n\n\n\n\nFigure 1.5: Transition from a laminar to a turbulent flow in the plume of a burning candle. The image is captured using schlieren photography, which visualises differences in the refraction index. Source: Wikimedia Commons.\n\n\n\n\n\n1.1.4 Reactive Flows\nFires are driven by the energy released by combustion, which is an exothermal chemical process. In the simplest case, two gas species, here oxygen and fuel, react and release energy. In real fires, there is a zoo of species and reactions involved. Depending on the concentrations of individual species and their local temperatures, new chemical species can be formed. Thus, the overall spectrum of products, due to the chemical processes during a fire, is rarely simple.\nIn contrast to technical combustion, in fires the oxygen and the fuel are typically not mixed. The transition from a non-premixed to a premixed combustion can be well observed with a Bunsen burner, see Figure 1.6.\n\n\n\n\n\n\nFigure 1.6: Variable oxygen concentrations in the outflow stream of a Bunsen burner. From left to right: air valve closed, nearly fully closed, valve semi-opened and maximally opened. Source: Wikimedia Commons.\n\n\n\nThe time scales at which the chemical reactions take place span multiple orders of magnitude, see Figure 1.7. Typical combustion processes are much faster than common mass transport processes in fires.\n\n\n\n\n\n\nFigure 1.7: (Very) Approximate time scales of chemical and physical processes in reactive flows.",
+    "crumbs": [
+      "Modeling",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modelling Fires</span>"
+    ]
+  },
+  {
+    "objectID": "content/01_Modeling/01_general/00_overview.html#heat-transfer",
+    "href": "content/01_Modeling/01_general/00_overview.html#heat-transfer",
+    "title": "1  Modelling Fires",
+    "section": "1.2 Heat Transfer",
+    "text": "1.2 Heat Transfer\nHeat can be transferred between locations and materials in different ways. The flow of heat is driven by differences in temperature. There are three modes to transfer heat, where only conduction and radiation are fundamental and do not require a fluid in a gravity field.\nThe heat transfer modes are:\n\nConvection: transport of matter with different temperatures due to induced buoyant flows\nConduction: diffusion of heat in a material\nRadiation: emission and absorption of electro-magnetic waves\n\n\n\n\n\n\n\nFigure 1.8: Schematic illustration of the various heat transfer modes. Source: Wikimedia Commons.\n\n\n\nAll three modes are important for fires. The released chemical energy from combustion locally heats up the gas, which changes its density and is thus affected by buoyancy. Beside the local heating, the hot gas emits thermal radiation in all directions. Thus, in case of a compartment fire, it transfers heat towards the walls or other structures, and e.g. towards the solid, which provides the fuel source for the fire. Thus, the solid’s surface heats up and heat conduction spreads the absorbed energy through the solid.",
+    "crumbs": [
+      "Modeling",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modelling Fires</span>"
+    ]
+  },
+  {
+    "objectID": "content/01_Modeling/01_general/00_overview.html#pyrolysis",
+    "href": "content/01_Modeling/01_general/00_overview.html#pyrolysis",
+    "title": "1  Modelling Fires",
+    "section": "1.3 Pyrolysis",
+    "text": "1.3 Pyrolysis\nPyrolysis describes the emission of (potentially combustible) gases out of solid material. In general, this is dependent on the solid’s temperature as the decomposition reactions require energy. For liquids, additional evaporation can take place.\nIn case of burning wood, like a match in Figure 1.9, the solid material itself is not part of the combustion, but delivers only the fuel for the fire. Not all material is gasified and a char residue is left.\n\n\n\n\n\n\nFigure 1.9: Burning match, where the fuel for the combustion is emitted by the wood through pyrolysis. Source: Wikimedia Commons.",
+    "crumbs": [
+      "Modeling",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Modelling Fires</span>"
+    ]
+  }
+]
