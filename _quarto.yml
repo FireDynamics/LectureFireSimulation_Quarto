@@ -12,7 +12,7 @@ book:
   
 
   sidebar:
-    logo: "content/cce_logo_small.light.png"  
+    logo: "content/cce_logo_small_light.png"  
 
 
   chapters:
@@ -39,15 +39,15 @@ format:
   html:
     theme:
       light: flatly
-      dark: darkly
+      dark: [darkly, theme-dark.scss]
     include-after-body:
       text: |
         <script type="application/javascript" src="light-dark.js"></script>
 
-  pdf:
-    documentclass: scrreprt
+#  pdf:
+#    documentclass: scrreprt
 
 
 
 resources: 
-  - "./content/cce_logo_small.dark.png"
+  - "./content/cce_logo_small_dark.png"
