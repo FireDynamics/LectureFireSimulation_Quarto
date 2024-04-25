@@ -84,21 +84,10 @@
     "href": "content/00_overview/01_team.html",
     "title": "Team Fire Dynamics",
     "section": "",
-    "text": "The Team Fire Dynamics is a joint team of members of the chair of Computational Civil Engineering (CCE) at the University of Wuppertal (BUW) and the Fire Dynamics division, which is part of the Institute for Advanced Simulation (IAS-7) at the Forschungszentrum Jülich (FZJ).\nThe CCE chair is mainly concerned with the research and development of new computer-based models. The focus of the application here is fire and smoke propagation in buildings.\nIn teaching, we focus on computer science and numerics. The main lectures we offer are Computer Science and Fire Simulations. In addition to this, we regularly offer workshops on data analysis and Raspberry Pi.\nThe simulation models we develop and use are mostly based on computational fluid dynamics (CFD). In addition, we use genetic optimisation algorithms and image processing methods. What they all have in common is the use of parallel computers, such as the supercomputer JURECA at the Forschungszentrum Jülich.\n\n\n\n\n\n\nFigure 1: JURECA supercomputer. Source: Forschungszentrum Jülich\n\n\n\nOur research activities include the use and further development of FDS (Fire Dynamics Simulator), which can be used to calculate the spread of smoke and fire in buildings. On the other hand, the development of new simulation tools. These include, for example, the simulation software ARTSS (Accelerator-based Real-Time Smoke Simulator) or PROPTI. The research is carried out in close cooperation with the Fire Dynamics department at the Jülich Research Centre.\n\n\n\n\n  \n\n\n\n\nSimulation of fires in an underground station, part of the ORPHEUS project, using the software FDS.\n\n\n\n\n\n\n  \n\n\n\n\nSimulation of a liquid fire with the software OpenFoam\n\n\n\n\n\n\n  \n\n\n\n\nSelf-consistent simulation of fire spread along a cable route, part of Hehnen, Arnold, and Mendola (2020). Calculated with FDS.\n\n\n\n\n\n\n\nHehnen, Tristan, Lukas Arnold, and Saverio La Mendola. 2020. “Numerical Fire Spread Simulation Based on Material Pyrolysis—An Application to the CHRISTIFIRE Phase 1 Horizontal Cable Tray Tests.” Fire 3 (3): 33. https://doi.org/10.3390/fire3030033.",
+    "text": "The Team Fire Dynamics is a joint team of members of the chair of Computational Civil Engineering (CCE) at the University of Wuppertal (BUW) and the Fire Dynamics division, which is part of the Institute for Advanced Simulation (IAS-7) at the Forschungszentrum Jülich (FZJ).\nThe CCE chair is mainly concerned with the research and development of new computer-based models. The focus of the application here is fire and smoke propagation in buildings.\nIn teaching, we focus on computer science and numerics. The main lectures we offer are Computer Science and Fire Simulations. In addition to this, we regularly offer workshops on data analysis and Raspberry Pi.\nThe simulation models we develop and use are mostly based on computational fluid dynamics (CFD). In addition, we use genetic optimisation algorithms and image processing methods. What they all have in common is the use of parallel computers, such as the supercomputer JURECA at the Forschungszentrum Jülich.\n\n\n\n\n\n\nFigure 1: JURECA supercomputer. Source: Forschungszentrum Jülich\n\n\n\nOur research activities include the use and further development of FDS (Fire Dynamics Simulator), which can be used to calculate the spread of smoke and fire in buildings. On the other hand, the development of new simulation tools. These include, for example, the simulation software ARTSS (Accelerator-based Real-Time Smoke Simulator) or PROPTI. The research is carried out in close cooperation with the Fire Dynamics department at the Jülich Research Centre.",
     "crumbs": [
       "Introduction",
       "Team Fire Dynamics"
-    ]
-  },
-  {
-    "objectID": "content/00_overview/02_references.html",
-    "href": "content/00_overview/02_references.html",
-    "title": "References",
-    "section": "",
-    "text": "Hehnen, Tristan, Lukas Arnold, and Saverio La Mendola. 2020.\n“Numerical Fire Spread Simulation Based on\nMaterial Pyrolysis—An Application to the CHRISTIFIRE Phase 1 Horizontal\nCable Tray Tests.” Fire 3 (3): 33. https://doi.org/10.3390/fire3030033.",
-    "crumbs": [
-      "Introduction",
-      "References"
     ]
   },
   {
