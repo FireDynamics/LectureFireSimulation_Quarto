@@ -12,6 +12,7 @@ book:
   
 
   sidebar:
+    title: " "
     logo: "content/cce_logo_small_light.png"  
 
 
@@ -43,7 +44,7 @@ format:
     include-after-body:
       text: |
         <script type="application/javascript" src="light-dark.js"></script>
-        <script type="application/javascript" src="arrow_nav.js"></script>
+        <script type="application/javascript" src="arrow-nav.js"></script>
 
 #  pdf:
 #    documentclass: scrreprt
