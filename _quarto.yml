@@ -43,6 +43,7 @@ format:
     include-after-body:
       text: |
         <script type="application/javascript" src="light-dark.js"></script>
+        <script type="application/javascript" src="arrow_nav.js"></script>
 
 #  pdf:
 #    documentclass: scrreprt
