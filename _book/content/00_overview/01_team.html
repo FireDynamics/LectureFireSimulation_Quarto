@@ -20,27 +20,7 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-/* CSS for citations */
-div.csl-bib-body { }
-div.csl-entry {
-  clear: both;
-  margin-bottom: 0em;
-}
-.hanging-indent div.csl-entry {
-  margin-left:2em;
-  text-indent:-2em;
-}
-div.csl-left-margin {
-  min-width:2em;
-  float:left;
-}
-div.csl-right-inline {
-  margin-left:2em;
-  padding-left:1em;
-}
-div.csl-indent {
-  margin-left: 2em;
-}</style>
+</style>
 
 
 <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -231,49 +211,21 @@ Figure&nbsp;1: JURECA supercomputer. Source: Forschungszentrum Jülich
 <p>Our research activities include the use and further development of <a href="https://pages.nist.gov/fds-smv/">FDS</a> (Fire Dynamics Simulator), which can be used to calculate the spread of smoke and fire in buildings. On the other hand, the development of new simulation tools. These include, for example, the simulation software <a href="https://github.com/FireDynamics/ARTSS">ARTSS</a> (Accelerator-based Real-Time Smoke Simulator) or <a href="https://github.com/FireDynamics/propti">PROPTI</a>. The research is carried out in close cooperation with the <a href="https://www.fz-juelich.de/ias/ias-7/EN/Research/Fire_Dynamics/_node.html">Fire Dynamics</a> department at the Jülich Research Centre.</p>
 <!-- Thats the way videos should be included:
  -->
-<table class="table">
-<thead>
-<tr class="header">
-<th style="text-align: center;"><video controls="" width="100%"> <source src="https://uni-wuppertal.sciebo.de/s/L8WzAy7adlX45Yk/download" type="video/mp4"> </video></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">Simulation of fires in an underground station, part of the <a href="http://www.orpheus-projekt.de">ORPHEUS project</a>, using the software <a href="https://pages.nist.gov/fds-smv/">FDS</a>.</td>
-</tr>
-</tbody>
-</table>
-<table class="table">
-<thead>
-<tr class="header">
-<th style="text-align: center;"><video controls="" width="100%"> <source src="https://uni-wuppertal.sciebo.de/s/muvLoJ1qgmJgBHT/download" type="video/mp4"> </video></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">Simulation of a liquid fire with the software <a href="https://www.openfoam.com/">OpenFoam</a></td>
-</tr>
-</tbody>
-</table>
-<table class="table">
-<thead>
-<tr class="header">
-<th style="text-align: center;"><video controls="" width="100%"> <source src="https://uni-wuppertal.sciebo.de/s/mBzgUtDRcZfYJRb/download" type="video/mp4"> </video></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;">Self-consistent simulation of fire spread along a cable route, part of <span class="citation" data-cites="Hehnen.2020">Hehnen, Arnold, and Mendola (<a href="02_references.html#ref-Hehnen.2020" role="doc-biblioref">2020</a>)</span>. Calculated with <a href="https://pages.nist.gov/fds-smv/">FDS</a>.</td>
-</tr>
-</tbody>
-</table>
+<!-- 
+|<video controls width="100%"> <source src="https://uni-wuppertal.sciebo.de/s/L8WzAy7adlX45Yk/download" type="video/mp4"> </video>|
+|:--:|
+|Simulation of fires in an underground station, part of the [ORPHEUS project](http://www.orpheus-projekt.de), using the software [FDS](https://pages.nist.gov/fds-smv/).|
 
 
-<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list" style="display: none">
-<div id="ref-Hehnen.2020" class="csl-entry" role="listitem">
-Hehnen, Tristan, Lukas Arnold, and Saverio La Mendola. 2020. <span>“<span class="nocase">Numerical Fire Spread Simulation Based on Material Pyrolysis—An Application to the CHRISTIFIRE Phase 1 Horizontal Cable Tray Tests</span>.”</span> <em>Fire</em> 3 (3): 33. <a href="https://doi.org/10.3390/fire3030033">https://doi.org/10.3390/fire3030033</a>.
-</div>
-</div>
+| <video controls width="100%"> <source src="https://uni-wuppertal.sciebo.de/s/muvLoJ1qgmJgBHT/download" type="video/mp4"> </video> |
+|:--:|
+| Simulation of a liquid fire with the software [OpenFoam](https://www.openfoam.com/) |
+
+| <video controls width="100%"> <source src="https://uni-wuppertal.sciebo.de/s/mBzgUtDRcZfYJRb/download" type="video/mp4"> </video> |
+|:--:|
+| Self-consistent simulation of fire spread along a cable route, part of @Hehnen.2020. Calculated with [FDS](https://pages.nist.gov/fds-smv/). | -->
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
