@@ -7,7 +7,7 @@ book:
   author: "Lukas Arnold"
   date: today
   downloads: [pdf]
-  repo-url: ttps://github.com
+  repo-url: https://github.com/FireDynamics/LectureFireSimulation_Quarto
   repo-actions: [issue]
   
 
@@ -43,8 +43,9 @@ format:
       dark: [darkly, theme-dark.scss]
     include-after-body:
       text: |
-        <script type="application/javascript" src="light-dark.js"></script>
         <script type="application/javascript" src="arrow-nav.js"></script>
+        <script type="application/javascript" src="light-dark.js"></script>
+        
 
 #  pdf:
 #    documentclass: scrreprt
