@@ -43,8 +43,8 @@ format:
       dark: [darkly, theme-dark.scss]
     include-after-body:
       text: |
-        <script type="application/javascript" src="arrow-nav.js"></script>
-        <script type="application/javascript" src="light-dark.js"></script>
+        <script type="application/javascript" src="/arrow-nav.js"></script>
+        <script type="application/javascript" src="/light-dark.js"></script>
         
 
 #  pdf:
